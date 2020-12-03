@@ -1,0 +1,2 @@
+# online_reservation_bot
+During Covid times the library would require the students to reserve a study spot early in the morning.  To not have to handle this myself i wrote this bot script (there is a lot more to it because you need to schedule it on your machine, make your machine wake up for that time, test it... etc)  Also i had to hack around clicking on some button because it would not have the click event until it is selected or so and that was not possible with the package i used.
